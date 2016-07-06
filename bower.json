@@ -1,0 +1,26 @@
+{
+  "name": "skd-helpers",
+  "homepage": "https://github.com/steelkiwi/js-helpers",
+  "authors": [
+    "sales@steelkiwi.com"
+  ],
+  "description": "",
+  "main": "helpers.js",
+  "keywords": [
+    "helper",
+    "helpers",
+    "mobile",
+    "plugin",
+    "touch",
+    "compatibility",
+    "cross-browser"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
