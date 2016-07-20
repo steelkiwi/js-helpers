@@ -52,7 +52,7 @@
             if (check) {
                 helpers.addClass(document.documentElement, 'mobile');
             }
-            // return check;
+            return check;
         }
     };
 
